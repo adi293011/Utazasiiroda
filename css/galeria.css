@@ -1,0 +1,12 @@
+#main
+{
+    section
+    {
+        width: 100%;
+        article
+        {
+            width: 25%;
+            min-width: 450px
+        }
+    }
+}
